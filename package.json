@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/rafaelhadama.lwc-l2juzged",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 8FHqwUQaJyg7wyfZZgZX --open"
+  }
+}
